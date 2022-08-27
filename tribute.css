@@ -1,0 +1,14 @@
+body {
+  background-color: gray;
+  font-family: "Courier New", Courier, monospace;
+}
+
+#img-caption {
+  width: 400px;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
